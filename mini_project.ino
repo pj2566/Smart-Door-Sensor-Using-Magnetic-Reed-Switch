@@ -1,3 +1,6 @@
+// This code is written by Prashuk Jain pls include all the necessary libraries for smooth working and map the pin no correctly on board with the code 
+//i would be uploading the full pin allotment in some time
+
 #include <SimpleTimer.h>
 
 
@@ -20,10 +23,10 @@ unsigned long previousMillis = 0;
 const long interval = 1000;
 
     
- char auth[] ="JzPboWju3Rb1NFoFpoZHL9Ml7Qi7W3qL";
+ char auth[] ="your auth id";
  
- char ssid[] = "Prasuk's Phone_1";
- char password[] ="Prasukj@101914";
+ char ssid[] = "Your SSID";
+ char password[] ="Your Pass";
  
 
 // Runs whenever the re  edswitch changes state
