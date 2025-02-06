@@ -1,6 +1,6 @@
 # Smart-Door-Sensor-Using-Magnetic-Reed-Switch
 
-You can easily increase Security at your home at  minimum cost possible and that also by yourself
+You can easily your home security while keeping the costs low and at the same time the efficiency is very high
 
 Introducing Smart Door System based on ESP8266 and Magnetic Reed Switch
 
